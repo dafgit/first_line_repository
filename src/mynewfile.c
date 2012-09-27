@@ -1,3 +1,6 @@
-// empty file
-//
-// Still empty
+bool IsItCorrect()
+{
+  // empty file
+  //
+  // Still empty
+}
